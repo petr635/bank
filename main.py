@@ -1,4 +1,6 @@
 from src import widget
+from src import masks
+from src import processing
 
 if __name__ == '__main__':
     # Проверка модуля widget
